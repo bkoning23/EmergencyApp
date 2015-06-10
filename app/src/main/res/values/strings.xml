@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EmergencyApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_emergency">Choose Emergency</string>
+    <string name="weather">Weather Emergency</string>
+    <string name="plant_emergency">Plant Emergency</string>
+    <string name="shift_emergency">Shift Emergency</string>
+</resources>
